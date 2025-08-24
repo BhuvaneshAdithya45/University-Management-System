@@ -56,7 +56,7 @@ The project features a modern FlatLaf UI, modular dashboards, and robust data ma
 
 ## 📂 Project Structure
 
-```
+
 
 src/university/management/system/
 │
@@ -127,10 +127,8 @@ src/university/management/system/
      Username: admin
      
      Password: admin123
-     
 
-
-## 🔮 Future Scope
+# 🔮 Future Scope
 
 * Role-based dashboards (Admin, Student, Faculty)
 * Hashed passwords with BCrypt
@@ -138,9 +136,9 @@ src/university/management/system/
 * Cloud deployment (Spring Boot + React in future)
 * Export to CSV/Excel
 
-## 👤 Author
+ ## 👤 Author
 
-**Bhuvanesh Adithya M C**  
+ **Bhuvanesh Adithya M C**  
 📍 Bengaluru, Karnataka  
 📧 [bhuvaneshadithya294@gmail.com](mailto:bhuvaneshadithya294@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/bhuvanesh-gowda) | [GitHub](https://github.com/BhuvaneshAdithya45)
