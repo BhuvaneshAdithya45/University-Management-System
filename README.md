@@ -90,7 +90,7 @@ src/university/management/system/
 
 1. Clone repo
    
-   git clone https://github.com/your-username/university-management-system.git
+   git clone:  https://github.com/BhuvaneshAdithya45/University-Management-System.git
    
    cd university-management-system
 
@@ -140,7 +140,9 @@ src/university/management/system/
 
  **Bhuvanesh Adithya M C**  
 📍 Bengaluru, Karnataka  
+
 📧 [bhuvaneshadithya294@gmail.com](mailto:bhuvaneshadithya294@gmail.com)  
+
 🔗 [LinkedIn](https://linkedin.com/in/bhuvanesh-gowda) | [GitHub](https://github.com/BhuvaneshAdithya45)
 
 
