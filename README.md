@@ -138,17 +138,13 @@ src/university/management/system/
 * Cloud deployment (Spring Boot + React in future)
 * Export to CSV/Excel
 
-
 ## 👤 Author
 
-**Bhuvanesh Adithya M C**
-📍 Bengaluru, Karnataka
-📧 [bhuvaneshadithya294@gmail.com](mailto:bhuvaneshadithya294@gmail.com)
+**Bhuvanesh Adithya M C**  
+📍 Bengaluru, Karnataka  
+📧 [bhuvaneshadithya294@gmail.com](mailto:bhuvaneshadithya294@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/bhuvanesh-gowda) | [GitHub](https://github.com/BhuvaneshAdithya45)
 
----
-
-```
 
 
 
