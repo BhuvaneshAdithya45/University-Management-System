@@ -146,5 +146,5 @@ Bhuvanesh Adithya M C
 📧 [bhuvaneshadithya294@gmail.com](mailto:bhuvaneshadithya294@gmail.com)
 🔗 [LinkedIn](https://linkedin.com/in/bhuvanesh-gowda) | [GitHub](https://github.com/BhuvaneshAdithya45)
 
-
+---
 
