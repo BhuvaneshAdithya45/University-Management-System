@@ -78,13 +78,13 @@ src/university/management/system/
 
 ## 🗄️ Database Schema (Simplified)
 
-- **login** (username, password, role)  
-- **student** (roll_no, name, course, branch, dob, …)  
-- **teacher** (emp_id, name, department, …)  
-- **fee** (course, semester1 … semester8)  
-- **studentLeave** (roll_no, date, duration, reason)  
-- **teacherLeave** (emp_id, date, duration, reason)  
-- **exam/marks** (roll_no, subject, marks, …)  
+- login(username, password, role)  
+- student(roll_no, name, course, branch, dob, …)  
+- teacher(emp_id, name, department, …)  
+- fee(course, semester1 … semester8)  
+- studentLeave (roll_no, date, duration, reason)  
+- teacherLeave (emp_id, date, duration, reason)  
+- exam/marks(roll_no, subject, marks, …)  
 
 ---
 
@@ -93,22 +93,23 @@ src/university/management/system/
 1. Clone repo
    
    git clone https://github.com/your-username/university-management-system.git
+   
    cd university-management-system
-````
 
-2. Set up MySQL
+
+3. Set up MySQL
 
    
    CREATE DATABASE university;
    
    USE university;
 
-   -- Insert default admin user
+   Insert default admin user
    
    INSERT INTO login(username,password,role)
    
    VALUES ('admin','admin123','admin');
-   ```
+   
 
 4. Add libraries
    Place these JARs inside `lib/` and add them to IntelliJ/Eclipse classpath
@@ -124,12 +125,13 @@ src/university/management/system/
    * Run `Splash.java`
    * Login with:
 
-     ```
+     
      Username: admin
+     
      Password: admin123
-     ```
+     
 
----
+
 ## 🔮 Future Scope
 
 * Role-based dashboards (Admin, Student, Faculty)
@@ -138,7 +140,6 @@ src/university/management/system/
 * Cloud deployment (Spring Boot + React in future)
 * Export to CSV/Excel
 
----
 
 ## 👤 Author
 
@@ -147,7 +148,5 @@ Bhuvanesh Adithya M C
 📧 [bhuvaneshadithya294@gmail.com](mailto:bhuvaneshadithya294@gmail.com)
 🔗 [LinkedIn](https://linkedin.com/in/bhuvanesh-gowda) | [GitHub](https://github.com/BhuvaneshAdithya45)
 
---- 
 
-Do you also want me to prepare a **`schema.sql` file** with all the `CREATE TABLE` statements so you can upload it alongside?
-```
+
