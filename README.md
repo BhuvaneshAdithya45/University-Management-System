@@ -72,9 +72,7 @@ src/university/management/system/
 ├── ResultSetTableModel.java  # Custom helper for JTable
 └── ...
 
-````
 
----
 
 ## 🗄️ Database Schema (Simplified)
 
